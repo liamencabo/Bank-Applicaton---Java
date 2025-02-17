@@ -6,4 +6,4 @@ D. View previous transaction
 E. Calculate interest
 F. Exit the application
 
-This is a great introductory to object-oriented programming (OOP) because we create an object called 'account' that we interact with.
+This is a great introductory to object-oriented programming (OOP) because we create an object called 'Account' that we interact with.
